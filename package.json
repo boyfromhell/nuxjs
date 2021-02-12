@@ -12,15 +12,15 @@
     "@nuxtjs/axios": "^5.12.5",
     "core-js": "^3.8.3",
     "mousetrap": "^1.6.5",
-    "nuxt": "^2.14.12"
-  },
-  "devDependencies": {
-    "@nuxtjs/eslint-config": "^5.0.0",
-    "@nuxtjs/eslint-module": "^3.0.2",
+    "nuxt": "^2.14.12",
     "@nuxtjs/tailwindcss": "^3.4.2",
     "@tailwindcss/postcss7-compat": "^2.0.2",
     "autoprefixer": "^9",
     "postcss": "^7",
     "tailwindcss": "npm:@tailwindcss/postcss7-compat"
+  },
+  "devDependencies": {
+    "@nuxtjs/eslint-config": "^5.0.0",
+    "@nuxtjs/eslint-module": "^3.0.2"
   }
 }
